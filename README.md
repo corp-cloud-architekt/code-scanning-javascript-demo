@@ -10,6 +10,7 @@ You can use code scanning with CodeQL, a semantic code analysis engine. CodeQL t
 
 This tutorial with use CodeQL Analysis with Code Scanning in order to search for vulnerabilities within your code. 
 
+
 ## Instructions
 
 <details>
